@@ -8,8 +8,8 @@ Reg : CT100/G/26212/25
 int main()
 {
 int scores [2] [2] ={
-    {65, 92},
-    {84, 72}
+    {65, 92, 35, 70},
+    {84, 72, 59, 67}
 };
    //printing array using nested loop
    for (int i=0 ; i<2 ; i++)
